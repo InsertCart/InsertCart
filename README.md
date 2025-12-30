@@ -6,7 +6,7 @@ Sr Backend & Frontend Developer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sandeeptanwar600@gmail.com](mailto:sandeeptanwar600@gmail.com)
-* 🚀  I'm currently working on [CrushMeet](http://www.crushmeet.com)
+* 🚀  I'm currently working on many projects
 * 🧠  I'm currently learning Improving my ML Skills
 * 💬  Ask me about sdasdasd
 
